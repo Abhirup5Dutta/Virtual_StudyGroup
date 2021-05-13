@@ -4,7 +4,7 @@
 
 ![Project Image](https://i.imgur.com/4Kpoux0.png)
 
-[Application uses:]
+**Application uses:**
 1. Google Login Functionality via Firebase
 2. Redux as data layer
 3. Firebase as backend
