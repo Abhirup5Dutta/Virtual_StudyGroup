@@ -1,7 +1,14 @@
 
 ## Application build
+[Deployed Application](https://discord-clone-3a76a.web.app/)
 
 ![Project Image](https://i.imgur.com/4Kpoux0.png)
+
+[Application uses:]
+1. Google Login Functionality via Firebase
+2. Redux as data layer
+3. Firebase as backend
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
 
